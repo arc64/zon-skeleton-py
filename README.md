@@ -8,14 +8,13 @@
 	pip install requests
 
 
-## API key
-	Get one here: http://developer.zeit.de/quickstart/
+# How to run with it
 
-# Run it
-	Clone this repo
-	Get your key and put it into the example file
-	
-	From the console run this:
-	./example.py
+1. Clone this repo
+2. Get your key: http://developer.zeit.de/quickstart/
+3. Put it into the example.py file
+4. From the console run this:
+
+        ./example.py
 
 Go hack...
